@@ -46,8 +46,3 @@ disabled = 0
 
 [WinEventLog://Application]
 disabled = 0
-
-
-
-![Screenshot 2025-05-27 203641](https://github.com/user-attachments/assets/edd1c4df-6bc2-42b8-b34b-9ae7ccaa8d45)
-
