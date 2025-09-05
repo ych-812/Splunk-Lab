@@ -21,7 +21,7 @@ This repository contains the setup and configuration details for a local Splunk 
 
 ### Universal Forwarder (UF) on Windows VM
 
-- Installed Universal Forwarder version X.X.X (specify version)
+- Installed Universal Forwarder
 - Configured inputs to monitor Windows Event Logs:
   - Security
   - System
