@@ -47,3 +47,4 @@ disabled = 0
 [WinEventLog://Application]
 disabled = 0
 
+<img width="1616" height="583" alt="Screenshot 2025-05-27 203641" src="https://github.com/user-attachments/assets/a6d29c11-afe1-4921-a484-2e2f047ff97f" />
